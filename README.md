@@ -18,3 +18,10 @@ $brain-calc
 $brain-gcd
 ```
 [![asciicast](https://asciinema.org/a/641269.svg)](https://asciinema.org/a/641269)
+
+### For start game "Brain progression"
+```sh
+$brain-progression
+```
+
+[![asciicast](https://asciinema.org/a/641287.svg)](https://asciinema.org/a/641287)
