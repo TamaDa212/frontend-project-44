@@ -25,3 +25,10 @@ $brain-progression
 ```
 
 [![asciicast](https://asciinema.org/a/641287.svg)](https://asciinema.org/a/641287)
+
+### For start game "Brain prime"
+```sh
+$brain-prime
+```
+
+[![asciicast](https://asciinema.org/a/641293.svg)](https://asciinema.org/a/641293)
