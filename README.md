@@ -7,8 +7,14 @@ $brain-even
 ```
 [![asciicast](https://asciinema.org/a/641243.svg)](https://asciinema.org/a/641243)
 
-### For start game "Calc even"
+### For start game "Brain calc"
 ```sh
 $brain-calc
 ```
 [![asciicast](https://asciinema.org/a/641251.svg)](https://asciinema.org/a/641251)
+
+### For start game "Brain gcd"
+```sh
+$brain-gcd
+```
+[![asciicast](https://asciinema.org/a/641269.svg)](https://asciinema.org/a/641269)
