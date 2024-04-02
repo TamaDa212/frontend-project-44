@@ -1,6 +1,8 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/TamaDa212/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/TamaDa212/frontend-project-44/actions)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/0aa68e75d76cec9db8dc/maintainability)](https://codeclimate.com/github/TamaDa212/frontend-project-44/maintainability)
+
 ### For start game "Brain even"
 ```sh
 $brain-even
@@ -33,5 +35,4 @@ $brain-prime
 
 [![asciicast](https://asciinema.org/a/641293.svg)](https://asciinema.org/a/641293)
 
-### 
-[![Maintainability](https://api.codeclimate.com/v1/badges/0aa68e75d76cec9db8dc/maintainability)](https://codeclimate.com/github/TamaDa212/frontend-project-44/maintainability)
+
