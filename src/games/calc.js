@@ -1,4 +1,4 @@
-import { getRandomNumber } from '../utilus.js';
+import getRandomNumber from '../utilus.js';
 import runGameLogic, { roundsNumber } from '../gameLogic.js';
 
 const description = 'What is the result of the expression?';
